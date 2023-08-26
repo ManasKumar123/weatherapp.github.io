@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+}
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  /* text-align: center; */
+}
+
+
+.searchInput {
+  border: 2px solid #d26c22;
+  padding: 0.5em 1.2em;
+  border-radius: 4px;
+  font-size: 1em;
+}
+.searchButton {
+  background-color: #d26c22;
+  margin-left: 5px;
+  border-radius: 4px;
+  color: #fff;
+}
+.text-color {
+  color: #d26c22 !important
+}
